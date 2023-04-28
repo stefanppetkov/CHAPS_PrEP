@@ -22,3 +22,8 @@ Differential gene expression analysis comparing merged PrEP arms receiving diffe
 <img src="https://www.frontiersin.org/files/Articles/1009978/fimmu-13-1009978-HTML-r1/image_m/fimmu-13-1009978-g007.jpg"  width="60%" height="60%">
 
 Clustering of gene ontology terms associated with DEGs in the merged drug and dose arms. GO associations with DEGs were established by using clusterProfiler to extract a single GO term for each DEG. The biological process GO terms associated with each of the identified DEGs were then analyzed using REVIGO and the semantic space clusters visualized for each PrEP regimen. GO terms are represented by circles, whose size indicates the relative number of genes included in the term. Circles are colored according to the significance (p-value) of the gene they represent. Labels correspond to the GO term determined to be representative of the cluster. Shared GO terms are shown in red.
+
+## Full article
+
+Petkov S, Herrera C, Else L, Lebina L, Opoka D, Seiphetlo TB, Pillay AA, Mugaba S, Namubiru P, Odoch G, Ssemata AS, Serwanga J, Kaleebu P, Webb EL, Khoo S, Martinson N, Gray CM, Fox J, Chiodi F. Short-term oral pre-exposure prophylaxis against HIV-1 modulates the transcriptome of foreskin tissue in young men in Africa. Front Immunol. 2022 Nov 18;13:1009978. doi: 10.3389/fimmu.2022.1009978. PMID: 36479111; PMCID: PMC9720390.
+

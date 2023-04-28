@@ -18,3 +18,7 @@ Similarity of control specimens in Uganda and South Africa. To evaluate the exte
 <img src="https://www.frontiersin.org/files/Articles/1009978/fimmu-13-1009978-HTML-r1/image_m/fimmu-13-1009978-g006.jpg"  width="60%" height="60%">
 
 Differential gene expression analysis comparing merged PrEP arms receiving different drugs and doses with control arm. Specimens from both South Africa and Uganda were grouped by the type of PrEP and number of administered doses. The expression of all transcripts was then compared to the control arm and statistically significant DEGs and their number are shown in red.
+
+<img src="https://www.frontiersin.org/files/Articles/1009978/fimmu-13-1009978-HTML-r1/image_m/fimmu-13-1009978-g007.jpg"  width="60%" height="60%">
+
+Clustering of gene ontology terms associated with DEGs in the merged drug and dose arms. GO associations with DEGs were established by using clusterProfiler to extract a single GO term for each DEG. The biological process GO terms associated with each of the identified DEGs were then analyzed using REVIGO and the semantic space clusters visualized for each PrEP regimen. GO terms are represented by circles, whose size indicates the relative number of genes included in the term. Circles are colored according to the significance (p-value) of the gene they represent. Labels correspond to the GO term determined to be representative of the cluster. Shared GO terms are shown in red.

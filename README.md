@@ -15,6 +15,6 @@ Similarity of control specimens in Uganda and South Africa. To evaluate the exte
 
 ## Number of PrEP doses affects foreskin transcriptome changes
 
-<img src="https://www.frontiersin.org/files/Articles/1009978/fimmu-13-1009978-HTML-r1/image_m/fimmu-13-1009978-g005.jpg"  width="60%" height="60%">
+<img src="https://www.frontiersin.org/files/Articles/1009978/fimmu-13-1009978-HTML-r1/image_m/fimmu-13-1009978-g006.jpg"  width="60%" height="60%">
 
-Principal component analysis of Uganda and South Africa trial arms combined together. Specimens from the two trial sites were analyzed based on the type of PrEP and number of administered doses. PCA was then performed using protein coding transcripts (N=15378). The overlap between the trial arms from two countries is shown by corresponding ellipses. A color coding in the figure denotes the different trial arms.
+Differential gene expression analysis comparing merged PrEP arms receiving different drugs and doses with control arm. Specimens from both South Africa and Uganda were grouped by the type of PrEP and number of administered doses. The expression of all transcripts was then compared to the control arm and statistically significant DEGs and their number are shown in red.
